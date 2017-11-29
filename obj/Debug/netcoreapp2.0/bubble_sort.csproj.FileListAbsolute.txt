@@ -1,0 +1,10 @@
+/Users/Wil/dottnet_practice/bubble_sort/obj/Debug/netcoreapp2.0/bubble_sort.csproj.CoreCompileInputs.cache
+/Users/Wil/dottnet_practice/bubble_sort/obj/Debug/netcoreapp2.0/bubble_sort.AssemblyInfoInputs.cache
+/Users/Wil/dottnet_practice/bubble_sort/obj/Debug/netcoreapp2.0/bubble_sort.AssemblyInfo.cs
+/Users/Wil/dottnet_practice/bubble_sort/bin/Debug/netcoreapp2.0/bubble_sort.deps.json
+/Users/Wil/dottnet_practice/bubble_sort/bin/Debug/netcoreapp2.0/bubble_sort.runtimeconfig.json
+/Users/Wil/dottnet_practice/bubble_sort/bin/Debug/netcoreapp2.0/bubble_sort.runtimeconfig.dev.json
+/Users/Wil/dottnet_practice/bubble_sort/bin/Debug/netcoreapp2.0/bubble_sort.dll
+/Users/Wil/dottnet_practice/bubble_sort/bin/Debug/netcoreapp2.0/bubble_sort.pdb
+/Users/Wil/dottnet_practice/bubble_sort/obj/Debug/netcoreapp2.0/bubble_sort.dll
+/Users/Wil/dottnet_practice/bubble_sort/obj/Debug/netcoreapp2.0/bubble_sort.pdb
